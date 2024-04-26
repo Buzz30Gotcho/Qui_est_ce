@@ -1,0 +1,4 @@
+export PYTHONPATH=$PYTHONPATH:/home/tony/eclipse-workspace/QuiEstCe
+export PYTHONPATH=$PYTHONPATH:/home/tony/eclipse-workspace/QuiEstCe/jeu
+
+dans .bashrc

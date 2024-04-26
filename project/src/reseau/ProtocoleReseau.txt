@@ -1,0 +1,12 @@
+1er étape:
+Quel plateau ?
+ex : ClashRoyale
+
+2e étape: 
+Quel personnage mystère ?
+
+3e étape:
+les messages + accusation
+
+4e étape:
+"Goodbye!"

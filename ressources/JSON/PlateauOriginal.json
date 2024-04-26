@@ -1,0 +1,45 @@
+{
+	"metadonnees": {
+		
+
+		"images": "ressources/img/PlateauOriginal/",
+		"ligne": 1,
+		"colonne": 3,
+		"largeurImage" : 92,
+		"hauteurImage" : 146,
+		
+		"tailleMaxHauteurImage": 150,
+		"espacementPhoto" : 15
+		
+
+	},
+			
+	
+
+	"possibilites": {
+		"0": {
+			"fichier": ["samuel.png"],
+			"nom": ["Samuel"],
+			"genre": ["homme"],
+			"cheveux": ["blanc"],
+			"lunettes": ["oui"],
+			"chauve": ["oui"]
+		},
+		"1": {
+			"fichier": ["leon.png"],
+			"nom": ["Léon"],
+			"genre": ["homme"],
+			"cheveux": ["blond"],
+			"lunettes": ["oui"],
+			"chauve": ["non"]
+		},
+		"2": {
+			"fichier": ["simon.png"],
+			"nom": ["Simon"],
+			"genre": ["homme"],
+			"cheveux": ["blanc"],
+			"lunettes": ["oui"],
+			"chauve": ["non"]
+		}
+	}
+}

@@ -1,0 +1,5 @@
+ERROR: Job failed: prepare environment: exit status 1.
+https://stackoverflow.com/questions/63154881/the-runner-of-type-shell-dont-work-job-failed-system-failure-preparing-envi
+
+ModuleNotFoundError: No module named 'pytest'
+https://openclassrooms.com/fr/courses/4425126-testez-votre-projet-avec-python/4435144-ajoutez-des-tests-avec-pytest

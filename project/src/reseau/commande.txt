@@ -1,0 +1,3 @@
+sudo netstat -anp | grep 50000
+fuser -k tcp/50000
+sudo kill -9 15144

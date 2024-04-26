@@ -1,0 +1,76 @@
+{
+    "metadonnees": {
+        "images": "./ressources/img/ClashRoyale/",
+        "ligne": 3,
+        "colonne": 3,
+        "largeurImage": 150,
+        "hauteurImage": 150,
+        "espacementPhoto": 0,
+        "tailleMaxHauteurImage": 120
+    },
+    "possibilites": {
+        "0":{
+            "fichier":["Prince.jpg"],
+            "nom":["Prince"],
+            "élixir":["5"],
+            "déplacement":["sol"],
+            "quantité":["1"]
+        },
+        "1":{
+            "fichier":["Barbare.png"],
+            "nom":["Barbare"],
+            "élixir":["5"],
+            "déplacement":["sol"],
+            "quantité":["5"]
+        },
+        "2":{
+            "fichier":["Bomber.png"],
+            "nom":["Bomber"],
+            "élixir":["3"],
+            "déplacement":["sol"],
+            "quantité":["1"]
+        },
+        "3":{
+            "fichier":["Gargouille.png"],
+            "nom":["Gargouille"],
+            "élixir":["3"],
+            "déplacement":["air"],
+            "quantité":["3"]
+        },
+        "4":{
+            "fichier":["Gobelin.png"],
+            "nom":["Gobelin"],
+            "élixir":["2"],
+            "déplacement":["sol"],
+            "quantité":["3"]
+        },
+        "5":{
+            "fichier":["Valkyrie.jpg"],
+            "nom":["Valkyrie"],
+            "élixir":["4"],
+            "déplacement":["sol"],
+            "quantité":["1"]
+        },
+        "6":{
+            "fichier":["ArmeeSquelettes.jpg"],
+            "nom":["ArmeeSquelettes"],
+            "élixir":["4"],
+            "déplacement":["sol"],
+            "quantité":["20"]
+        },
+        "7":{
+            "fichier":["Archer.jpg"],
+            "nom":["Archer"],
+            "élixir":["3"],
+            "déplacement":["sol"],
+            "quantité":["2"]
+        },
+        "8":{
+            "fichier":["BebeDragon.jpg"],
+            "nom":["BebeDragon"],
+            "élixir":["4"],
+            "déplacement":["air"],
+            "quantité":["1"]
+        }
+    }
+ }

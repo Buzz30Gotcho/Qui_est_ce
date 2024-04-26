@@ -1,0 +1,14 @@
+1er fenêtre : Le menu
+	-Entrez un pseudo
+	-Choisissez l'ensemble de portrait à utilisé
+	-Choisissez le mode facile / normale
+	
+2e fenêtre : Qui-est-ce ?
+clic gauche sur portrait -> placer une croix
+clic droit sur portrait -> accuser un personnage d'être le personnage mystère. Ne fait rien si c'est pas le bon personnage.
+Poser des questions à l'aide des menu déroulants en bas de la fenêtre.
+Pour sauvegarder, appuyez sur "Sauvegarder et quitter" en haut de la fenêtre. Puis relancer le jeu et tapez le même pseudo que pour la partie précédente.
+Si le mode facile est selectionné, vous avez la possiblité de savoir combien de personnage seront éliminé AVANT de valider la question (, si vous validez la question, les croix sont placées automatiquement)
+
+Instructions pour installation et exécution à la fin du README.md
+https://gitlab.etu.umontpellier.fr/e20180001091/qui-est-ce

@@ -1,0 +1,51 @@
+% Une ligne commentaire débute par le caractère « % »
+
+\documentclass[a4paper]{article}
+
+% Options possibles : 10pt, 11pt, 12pt (taille de la fonte)
+%                     oneside, twoside (recto simple, recto-verso)
+%                     draft, final (stade de développement)
+
+\usepackage[utf8]{inputenc}   % LaTeX, comprends les accents !
+\usepackage[T1]{fontenc}      % Police contenant les caractères français
+\usepackage[francais]{babel}  
+
+
+\usepackage[a4paper,left=2cm,right=2cm]{geometry}% Format de la page, réduction des marges
+\usepackage{graphicx}  % pour inclure des images
+
+%\pagestyle{headings}        % Pour mettre des entêtes avec les titres
+                              % des sections en haut de page
+
+ \title{  Qui est-ce ?\\         % Les paramètres du titre : titre, auteur, date
+  Projet de programmation}          
+\author{Groupe \emph{Z}\\
+  \emph{Frédéric,Laurent,Tony et Romain}\\
+  \emph{git:git@gitlab.etu.umontpellier.fr:e20180001091/qui-est-ce.git}\\
+  L2 informatique\\
+  Faculté des Sciences\\
+Université de Montpellier.}
+\date{\today}             
+
+
+\begin{document}
+
+\maketitle                    % Faire un titre utilisant les données
+                              % passées à \title, \author et \date
+
+   
+ 
+\section{Bilan et Conclusions}
+
+\paragraph{Nous avons rencontré quelques problèmes.}
+En effet, git a été un gros problème pour nous. Partager notre travail entre nous a couté beaucoup de temps. De plus, lors de chaque rendu, nous avons fait des modifications jusqu'à la dernière minute. Ce qui en a causé quelques problèmes et une grande quantité de stress.
+Ensuite, les différents système d'exploitation utilisés au sein de notre groupe ont causé des conflits que nous n'avons pas toujours réussi à résoudre.
+De la même façon, les différentes versions de Python ont elles aussi étaient problématique.
+% \end{itemize}
+
+\paragraph{Mais, nous avons terminé le projet}
+La cohésion du groupe et le travail régulier nous a permis d'avancer rapidement lors de la réalisation du projet même si nous n'avons pas réussi à faire les extentions à temps.
+Le jeu ainsi que le générateur fonctionne.
+
+\end{document}
+

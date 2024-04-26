@@ -1,0 +1,9 @@
+project
+	-src
+		-jeu
+		-generateur
+		-interfaces
+			-interfacepourmachin
+			-bibliotheque
+		-main pour lancer!!!
+		
